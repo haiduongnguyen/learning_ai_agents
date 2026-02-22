@@ -1,0 +1,9 @@
+CONTENT:
+Looking for ways to save money? Here are some tips on how you can save money while living in Vietnam! 1) Shop at local markets instead of supermarkets 2) Cook your meals at home 3) Use public transportation or walk instead of taking taxis 4) Cancel unused subscriptions 5) Bring your own reusable bags when shopping. Small changes can make a big difference in saving money! #VietnamSavingsTips #MoneySavingHacks
+
+QC RESULT:
+{
+  "score": 8,
+  "decision": "PASS",
+  "feedback": "The post is clear and readable. It does not contain any harmful or sensitive content. The language used is suitable for a professional audience. However, the post exceeds the maximum word limit of 150 words."
+}
